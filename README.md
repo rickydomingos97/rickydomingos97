@@ -22,9 +22,13 @@
   </tr>
 
   <tr>
+<td align="center"> <h2 >IDE & Code editor 🧠</h2> </td>
 <td align="center"> <h2 >Database ⚡</h2> </td>
   </tr>
   <tr>
+      <td>
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    </td>
     <td>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />    
     </td>
@@ -32,8 +36,15 @@
 
   <tr>
 <td align="center"> <h2>📟 Terminal </h2> </td>
+<td align="center"> <h2>🌐 OS</h2> </td>
   </tr>
   <tr>
+  <tr>
+    <td>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    </td>
+  </tr>
     <td>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -42,18 +53,8 @@
   </tr>
   
   <tr>
-<td align="center"> <h2 >IDE & Code editor 🧠</h2> </td>
-<td align="center"> <h2>🌐 OS</h2> </td>
   </tr>
-  <tr>
-    <td>
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    </td>
-    <td>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    </td>
-  </tr>
+
 
   <tr>
 </table>
