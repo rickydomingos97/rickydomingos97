@@ -36,8 +36,8 @@
   </tr>
 
   <tr>
-<td align="center"> <h2>📟 Terminal </h2> </td>
-<td align="center"> <h2>🌐 OS</h2> </td>
+<td align="center"> <h2>🌐 OS </h2> </td>
+<td align="center"> <h2>📟 Terminal</h2> </td>
   </tr>
   <tr>
     <td>
