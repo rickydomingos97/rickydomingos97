@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ricardo</h1>
+<h1 align="center">Hi there, I'm Ricardo</h1>
 <h2 align="center">Systems of internet 🤖</h2>
 
 <table>
