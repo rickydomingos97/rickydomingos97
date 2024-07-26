@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Ricardo</h1>
-<h2 align="center">Systems of internet 🤖</h2>
+<h2 align="center">WEB Developer Java 🤖</h2>
 
 <!-- <a href="https://app.daily.dev/ricardodomingos"><img src="https://api.daily.dev/devcards/v2/NNI0B5abfqOtiGLL3PNFL.png?r=4m8&type=wide" width="652" alt="Ricardo Domingos's Dev Card"/></a> -->
 
