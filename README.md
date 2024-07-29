@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/rickydomingos97)
+<img align="right" src="https://komarev.com/ghpvc/?username=rickydomingos97&color=FFBE1A"><br>
+
 
 <h1 align="center">Priveeeet! 👋, eu me chamo Ricardo Domingos</h1>
 <h3 align="center">Sou graduado de Sistemas para Internet, desenvolvedor web e estudando SQL. Com conhecimento em Front-end, desenvolvendo paginas web e aplicanmdo os conhecimentos em, UX e UI. Tenho conhecimento em bancos de dados mais utilizados no mercado atualmente, Java, Spring Boot e React.i can speak English, Portuguese a little bit of Spanish and I can also speak some Russian 🥑 </h3>
