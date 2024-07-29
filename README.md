@@ -1,16 +1,18 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=rickydomingos97&color=FFBE1A"><br>
 
-
 <h1 align="center">Priveeeet! 👋, eu me chamo Ricardo Domingos</h1>
 <h3 align="center">Sou graduado de Sistemas para Internet, desenvolvedor web e estudando SQL. Com conhecimento em Front-end, desenvolvendo paginas web e aplicanmdo os conhecimentos em, UX e UI. Tenho conhecimento em bancos de dados mais utilizados no mercado atualmente, Java, Spring Boot e React.i can speak English, Portuguese a little bit of Spanish and I can also speak some Russian 🥑 </h3>
 
-<img src="[https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)">
+<img align="left" width="100px" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png">
+<br>
 
 
+<p>
 - 💬 Você pode me perguntar sobre **PostgreSQL, MySQL, HTML, CSS,JS, Java, SPRING BOOT,AI e SQL. Fique à vontade :D**
 
 - 📫 **rickycodesux@gmail.com**
-  
+</p>
+
 
 <h2 align="center">👥 Connect with me</h2>
 <p align="center">
@@ -34,11 +36,6 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickydomingos97&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=rickydomingos97&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
-
-
-
-
-
 
 <!-- <table>
 <tr>
