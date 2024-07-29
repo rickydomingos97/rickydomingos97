@@ -4,7 +4,7 @@
 <h1 align="center">Priveeeet! 👋, eu me chamo Ricardo Domingos</h1>
 <h3 align="center">Sou graduado de Sistemas para Internet, desenvolvedor web e estudando SQL. Com conhecimento em Front-end, desenvolvendo paginas web e aplicanmdo os conhecimentos em, UX e UI. Tenho conhecimento em bancos de dados mais utilizados no mercado atualmente, Java, Spring Boot e React.i can speak English, Portuguese a little bit of Spanish and I can also speak some Russian 🥑 </h3>
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 
 - 💬 Você pode me perguntar sobre **PostgreSQL, MySQL, HTML, CSS,JS, Java, SPRING BOOT,AI e SQL. Fique à vontade :D**
