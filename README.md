@@ -1,14 +1,18 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=rickydomingos97&color=FFBE1A"><br>
 
 <h1 align="center">Priveeeet! 👋, eu me chamo Ricardo Domingos</h1>
-<h3 align="center">Sou graduado de Sistemas para Internet, desenvolvedor web e estudando SQL. Com conhecimento em Front-end, desenvolvendo paginas web e aplicanmdo os conhecimentos em, UX e UI. Tenho conhecimento em bancos de dados mais utilizados no mercado atualmente, Java, Spring Boot e React.i can speak English, Portuguese a little bit of Spanish and I can also speak some Russian 🥑 </h3>
+<h3 align="center">Sou graduado de Sistemas para Internet, desenvolvedor web e estudando SQL, AI e Cloud.<br>
+Com conhecimento em Front-end, desenvolvendo paginas web e aplicando os conhecimentos em codigo e UX/UI.<br>
+Tenho conhecimento em bancos de dados mais utilizados no mercado atualmente, Java, Spring Boot e React.<br>
+I can speak English, Portuguese a little bit of Spanish and I can also speak some Russian 🥑 </h3>
 
 <img align="left" width="100px" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png">
 <br>
 
 
 <p>
-- 💬 Você pode me perguntar sobre **PostgreSQL, MySQL, HTML, CSS,JS, Java, SPRING BOOT,AI e SQL. Fique à vontade :D**
+- 💬 Você pode me perguntar sobre **PostgreSQL, MySQL, HTML, CSS,JS, Java, SPRING BOOT,AI e SQL.
+   <br>Fique à vontade :D**
 
 - 📫 **rickycodesux@gmail.com**
 </p>
